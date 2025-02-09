@@ -166,8 +166,8 @@ For broader browser support, you could add a third-party AVIF decoder library, b
 
 Note: This code should be hosted on a secure (HTTPS) connection for proper functionality in modern browsers, and some browsers might require enabling experimental features for full AVIF support.
 
-https://github.com/convert-apps/avif-to-jpg-png-webp
-https://github.com/convert-apps/webp-to-png-jpg-gif
-https://github.com/convert-apps/jpg-to-png-webp-jpeg
-https://github.com/convert-apps/png-to-jpg-webp-ico
-https://github.com/convert-apps/gif-to-jpg-png-webp
+- https://github.com/convert-apps/avif-to-jpg-png-webp
+- https://github.com/convert-apps/webp-to-png-jpg-gif
+- https://github.com/convert-apps/jpg-to-png-webp-jpeg
+- https://github.com/convert-apps/png-to-jpg-webp-ico
+- https://github.com/convert-apps/gif-to-jpg-png-webp

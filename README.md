@@ -1,5 +1,4 @@
-# AVIF-to-JPG.PNG.WEBP
-AVIF to JPG-PNG-WEBP Converter
+# AVIF to JPG/PNG/WEBP Converter 
 Here's a detailed AVIF to JPG/PNG/WEBP converter using HTML and JavaScript. This solution uses the browser's built-in image decoding capabilities and canvas for conversion:
 
 ```html
